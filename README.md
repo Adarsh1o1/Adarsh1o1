@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh.
 - 👀 I’m interested in Electronics and Coding.
-- 🌱 I’m currently a Freshman.
+- 🌱 single-mindedness
 - 💞️ I’m looking to see my better version everyday.
 - 📫 Allways improving.
 
