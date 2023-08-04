@@ -3,6 +3,8 @@
 I’m Adarsh. and I am a code enthusiast. Ihave always been interested in technology and how it can be used to solve real-world problems. I am passionate about coding and I believe that it is one of the most powerful tools we have to create innovative solutions. My coding skills include C, Python, Django-backend-web development, Django rest framework , rest API, mysql.
 
 
+
+
 - 👀 I’m interested in Electronics and Coding.
 - 🌱 single-mindedness
 - 💞️ I’m looking to see my better version everyday.
