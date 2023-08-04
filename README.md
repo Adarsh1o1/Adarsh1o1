@@ -13,9 +13,9 @@ I’m Adarsh. and I am a code enthusiast. Ihave always been interested in techno
 
 <h1>languages and Tools</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1)](https://github.com/adarsh1o1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1&theme=radical)
 
-[![Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1&layout=pie)](https://github.com/adarsh1o1/github-readme-stats)
+[![Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1&layout=pie&theme=Tokyonight)](https://github.com/adarsh1o1/github-readme-stats)
 
 <h1>Profile</h1>
 
