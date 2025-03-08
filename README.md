@@ -9,7 +9,6 @@ I’m Adarsh. and I am a code enthusiast. Ihave always been interested in techno
 - 🌱 single-mindedness
 - 💞️ I’m looking to see my better version everyday.
 - 📫 Allways improving.
-- ⚡ Fun Fact - I am lazy but smart
 
 <h1>languages and Tools</h1>
 
