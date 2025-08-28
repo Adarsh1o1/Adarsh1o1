@@ -23,7 +23,7 @@ believed in the **"try fast, learn fast"** approach — building projects, break
 - Personal Finance Dashboard (Power BI)  
 - Real-time Chat Application (Flutter + Django)  
 - Cloud File Hosting and Management Platform (like Google Drive / MediaFire)
-- Carren Development Social Media Platform (Django + React)
+- Career Development Social Media Platform (Django + React)
 
 ## 🌱 Learning Journey
 Always experimenting with new technologies — from **AI models** to **server management** — and documenting my growth along the way.  
