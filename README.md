@@ -1,14 +1,33 @@
 
 <h1>Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%;  display: inline-block;" data-target="animated-image.originalImage" width="40px"></h1>
-I’m Adarsh. and I am a code enthusiast. I have always been interested in technology and how it can be used to solve real-world problems. I am passionate about Artificial Intelligence and I believe that it is one of the most powerful Technology we have to create innovative solutions. My coding skills include Data Science, Machine Learning and Neural Networks; Python, Django development, Django rest framework , rest APIs, ...and Databases.
+# Hi, I'm Adarsh 👋  
+
+🚀 A curious tech explorer who loves experimenting with different domains of technology.  
+I believe in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
+
+## 💡 What I'm Exploring
+- 🤖 Artificial Intelligence, Machine Learning  and Neural Networks
+- 📊 Data Science
+- 🌐 Backend Development (Django, RestAPIs, MySQL)
+- ☁️ Cloud & Server Management  
+- 📱 Mobile App Development (Flutter)
 
 
+## 🛠️ Tech Stack
+- **Languages:** Python, Dart  
+- **Frameworks & Tools:** Django, Flutter, Numpy, Pandas, Matplotlib, Power BI  
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Other Interests:** Networking, Server Hosting, Graphic Design  
 
+## 📌 Current Projects
+- Personal Finance Dashboard (Power BI)  
+- Real-time Chat Application (Flutter + Django)  
+- Cloud File Hosting and Management Platform (like Google Drive / MediaFire)
+- Carren Development Social Media Platform (Django + React)
 
-- 👀 I’m interested in Coding & Electronics.
-- 🌱 single-mindedness
-- 💞️ I’m looking to see my better version everyday.
-- 📫 Allways improving.
+## 🌱 Learning Journey
+Always experimenting with new technologies — from **AI models** to **server management** — and documenting my growth along the way.  
+
 
 <h1>languages and Tools</h1>
 
@@ -20,7 +39,8 @@ I’m Adarsh. and I am a code enthusiast. I have always been interested in techn
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh1o1&hide=contribs,prs&theme=radical)
 
-<!---
-Adarsh1o1/Adarsh1o1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with Me
+- 🌍 [Portfolio](#) (coming soon)  
+- 💼 [LinkedIn](linkedin.com/in/adarsh1o1)
+-  
+- 📧 [Email](mailto:adarshkushawha52@gmail.com)  
