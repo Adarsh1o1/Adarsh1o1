@@ -1,11 +1,11 @@
 
 <h1>Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%;  display: inline-block;" data-target="animated-image.originalImage" width="40px"></h1>
-I’m Adarsh. and I am a code enthusiast. Ihave always been interested in technology and how it can be used to solve real-world problems. I am passionate about coding and I believe that it is one of the most powerful tools we have to create innovative solutions. My coding skills include Android App development(Flutter), C, Python, Django-backend-web development, Django rest framework , rest API, mysql.
+I’m Adarsh. and I am a code enthusiast. I have always been interested in technology and how it can be used to solve real-world problems. I am passionate about Artificial Intelligence and I believe that it is one of the most powerful Technology we have to create innovative solutions. My coding skills include Data Science, Machine Learning and Neural Networks; Python, Django development, Django rest framework , rest APIs, ...and Databases.
 
 
 
 
-- 👀 I’m interested in Electronics and Coding.
+- 👀 I’m interested in Coding & Electronics.
 - 🌱 single-mindedness
 - 💞️ I’m looking to see my better version everyday.
 - 📫 Allways improving.
