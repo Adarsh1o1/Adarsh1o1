@@ -1,6 +1,6 @@
 
 <h1>Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%;  display: inline-block;" data-target="animated-image.originalImage" width="40px"></h1>
-# Meet Adarsh 👋  
+## Meet Adarsh 👋  
 
 🚀 A curious tech explorer who loves experimenting with different domains of technology.  
 believed in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
