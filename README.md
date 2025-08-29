@@ -3,7 +3,7 @@
 
 ## Meet Adarsh
 
-🚀 A curious tech explorer who loves experimenting with different domains of technology.  
+A curious tech explorer who loves experimenting with different domains of technology.  
 believed in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
 
 ## 💡 What He's Cooking
