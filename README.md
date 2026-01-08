@@ -7,8 +7,6 @@ A curious tech explorer who loves experimenting with different domains of techno
 believed in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
 
 ## 💡 What He's Cooking
-- 🤖 Artificial Intelligence, Machine Learning  and Neural Networks
-- 📊 Data Science
 - 🌐 Backend Development (Django, RestAPIs, MySQL)
 - ☁️ Cloud & Server Management  
 - 📱 Mobile App Development (Flutter)
@@ -16,12 +14,11 @@ believed in the **"try fast, learn fast"** approach — building projects, break
 
 ## 🛠️ Ingredients
 - **Languages:** Python, Dart  
-- **Frameworks & Tools:** Django, Flutter, Numpy, Pandas, Matplotlib, Power BI  
+- **Frameworks & Tools:** Django, Flutter, Numpy, Pandas, Matplotlib
 - **Databases:** MySQL, PostgreSQL, Redis
 - **Other Interests:** Networking, Server Hosting, Graphic Design  
 
 ## 📌 What he has cooked
-- Personal Finance Dashboard (Power BI)  
 - Real-time Chat Application (Flutter + Django)  
 - Cloud File Hosting and Management Platform (like Google Drive / MediaFire)
 - Career Development Social Media Platform (Django + React)
