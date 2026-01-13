@@ -7,19 +7,20 @@ A curious tech explorer who loves experimenting with different domains of techno
 believed in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
 
 ## 💡 What He's Cooking
-- 🌐 Backend Development (Django, RestAPIs, MySQL)
-- ☁️ Cloud & Server Management  
+- 🌐 Backend Development (Django/Node.js, RestAPIs, MySQL/PostgreSQL)
+- ☁️ Cloud & Server Management(AWS EC2, AWS Elastic Beanstalk)
 - 📱 Mobile App Development (Flutter)
 
 
 ## 🛠️ Ingredients
-- **Languages:** Python, Dart  
-- **Frameworks & Tools:** Django, Flutter, Numpy, Pandas, Matplotlib
+- **Languages:** Python, Dart, Javascript
+- **Frameworks & Tools:** Django, Flutter, Node.js(Learning)
 - **Databases:** MySQL, PostgreSQL, Redis
 - **Other Interests:** Networking, Server Hosting, Graphic Design  
 
 ## 📌 What he has cooked
-- Real-time Chat Application (Flutter + Django)  
+- Webcamo: Low-Latency P2P Mobile Webcam
+- Real-time Chat Application
 - Cloud File Hosting and Management Platform (like Google Drive / MediaFire)
 - Career Development Social Media Platform (Django + React)
 
