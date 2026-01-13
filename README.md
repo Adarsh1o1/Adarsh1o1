@@ -41,5 +41,5 @@ Always experimenting with new technologies — from **AI models** to **server ma
 ## 📫 Connect with Me
 - 🌍 [Portfolio](#) (coming soon)  
 - 💼 [LinkedIn](https://linkedin.com/in/adarsh1o1)
--  𝕏  [X.com](https://x.com/adarsh1o1)
+-  𝕏 [X.com](https://x.com/adarsh1o1)
 - 📧 [Email](mailto:adarshkushawha52@gmail.com)  
