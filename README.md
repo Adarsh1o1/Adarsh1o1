@@ -1,9 +1,8 @@
 
 <h1>Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%;  display: inline-block;" data-target="animated-image.originalImage" width="40px"></h1>
 
-## Meet Adarsh
+## Hi, I'm Adarsh
 
-### Hi, I'm Adarsh
 
 I build things to understand how they work — not to have something to show.
 
