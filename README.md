@@ -14,7 +14,3 @@ Most of my projects started with a genuine question:
 I pick up tools as I need them. Right now that's Node.js, Django, WebRTC, WebSockets, and DevOps.
 
 I care more about architecture decisions and understanding tradeoffs than about knowing every API.
-
-<h1>Profile</h1>
-
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh1o1&hide=contribs,prs&theme=radical)
