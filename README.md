@@ -3,43 +3,19 @@
 
 ## Meet Adarsh
 
-A curious tech explorer who loves experimenting with different domains of technology.  
-believed in the **"try fast, learn fast"** approach — building projects, breaking them, and learning along the way.  
+### Hi, I'm Adarsh
 
-## 💡 What He's Cooking
-- 🌐 Backend Development (Django/Node.js, RestAPIs, MySQL/PostgreSQL)
-- ☁️ Cloud & Server Management(AWS EC2, AWS Elastic Beanstalk)
-- 📱 Mobile App Development (Flutter)
+I build things to understand how they work — not to have something to show.
 
+Most of my projects started with a genuine question:
+- *How do files and folders actually work in the cloud?* → built a Google Drive-like system from scratch
+- *How does real-time data move between devices over a network?* → built a WebRTC app to use my phone as a 1080p webcam (shipped to Play Store, hits ~20fps — still debugging the last 10)
+- *Why is it so hard to find the right project partner in college?* → built a cross-college team-finding platform
 
-## 🛠️ Ingredients
-- **Languages:** Python, Dart, Javascript
-- **Frameworks & Tools:** Django, Flutter, Node.js(Learning)
-- **Databases:** MySQL, PostgreSQL, Redis
-- **Other Interests:** Networking, Server Hosting, Graphic Design  
+I pick up tools as I need them. Right now that's Node.js, Django, WebRTC, WebSockets, and DevOps.
 
-## 📌 What he has cooked
-- Webcamo: Low-Latency P2P Mobile Webcam
-- Real-time Chat Application
-- Cloud File Hosting and Management Platform (like Google Drive / MediaFire)
-- Career Development Social Media Platform (Django + React)
-
-## 🌱 Learning Journey
-Always experimenting with new technologies — from **AI models** to **server management** — and documenting my growth along the way.  
-
-
-<h1>languages and Tools</h1>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1&theme=radical)
-
-[![Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1o1&layout=pie&theme=Tokyonight)](https://github.com/adarsh1o1/github-readme-stats)
+I care more about architecture decisions and understanding tradeoffs than about knowing every API.
 
 <h1>Profile</h1>
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh1o1&hide=contribs,prs&theme=radical)
-
-## 📫 Connect with Me
-- 🌍 [Portfolio](#) (coming soon)  
-- 💼 [LinkedIn](https://linkedin.com/in/adarsh1o1)
--  𝕏 [X.com](https://x.com/adarsh1o1)
-- 📧 [Email](mailto:adarshkushawha52@gmail.com)  
